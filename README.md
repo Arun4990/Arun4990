@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A Passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nqjyt05t49bfv5qnqy8ljyea2ob5ddeznsl6jmws&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://w7.pngwing.com/pngs/51/881/png-transparent-programmer-source-code-computer-computer-computer-program-computer-programming-thumbnail.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun4990&label=Profile%20views&color=0e75b6&style=flat" alt="arun4990" /> </p>
 
 - 🔭 I’m currently working on **DSA**
