@@ -1,4 +1,4 @@
-![Top Image]("./top.jpg")
+<img src="./top.jpg" alt="Top Image">
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A passionate MERN(MongoDB, Express, React, and Node.js) from India</h3>
 
