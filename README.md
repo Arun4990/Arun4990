@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN(MongoDB, Express, React, and Node.js) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun4990&label=Profile%20views&color=0e75b6&style=flat" alt="arun4990" /> </p>
-<img src="right.jpg" align="right" width="200" />
+<img src="right.jpg" align="right" width="300" />
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://arun4990.github.io/portfolio/](https://arun4990.github.io/portfolio/)
